@@ -1,4 +1,4 @@
-# SEEE1033 Group Assignment (2025/2026) — README
+# SKEE1033 Group Assignment (2025/2026) — README
 
 ## Group Members
 - **BADR ANAS AL MOKDAD** — **A25KE4015**
